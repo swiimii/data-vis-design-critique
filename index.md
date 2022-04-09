@@ -29,7 +29,7 @@ successful and which have been the most lucrative.
 
 ### 3. What are the trends for the game "Dualikiwi" ?
 After clicking on "Dualikiwi" in one of the other visualizations, the user is presented
-with a visualization filtered to show only data about Dualikiwi. The user can then see 
+with a visualization filtered to show only data about Dualikiwi.
 
 <img src="img/dualikiwi-only.png" height="600"/>
 
