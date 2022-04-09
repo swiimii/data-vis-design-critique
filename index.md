@@ -42,8 +42,10 @@ was released, and word spread of it having been created.
 
 ## What design choices are effective?
 The use of stacked bar charts is effective for comparing games' interest while still showing peaks in data over time.
-And, if the user wants to omit comparisons and just view trends for one title, they can always
-choose to view the game-specific chart.
+If the user wants to omit comparisons and just view trends for one title, they can always
+choose to view the game-specific chart. Or, if the user wants to see a wider view of all their
+projects' totals, they can increase the date range shown, which will replace the bar
+chart with a line chart to more prominently display trends in data.
 
 <img src="img/hover2.png" alt="Spike in chart"/>
 
